@@ -11,7 +11,11 @@
         src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
         alt="DIO - Code The Future">
 </a>
-
+<a href="https://dio.me/">
+<img 
+    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
+    alt="🔴 LIVE CODE">
+</a>
 </p>
 
 <p align="center">
@@ -47,7 +51,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 - Publicação no GitHub (fork)
 
 ## 📚 Materiais
-- [Link da live no YouTube](https://www.youtube.com) <!-- troque se quiser -->
+- [Link da live no YouTube](https://www.youtube.com)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de áudio (CapCut Web)](https://www.capcut.com/editor)
 
@@ -66,14 +70,13 @@ Use os prompts do `PROMPTS.md` (neste repositório) para reproduzir o processo:
       align=left 
       margin=10 
       width=80 
-      src="https://https://github.com/ThiOliver"  <!-- ou troque para ./assets/autor.png -->
+      src="https://github.com/ThiOliver.png?size=160"
     />
-    <p>&nbsp;&nbsp;&nbsp;Thiago (Ti)<br>
+    <p>&nbsp;&nbsp;&nbsp;Thiago Oliveira<br>
     &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/ThiOliver">GitHub</a>
     &nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/thiago-oliveira-s/">LinkedIn</a>
-    &nbsp;|&nbsp;
     &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
@@ -92,12 +95,10 @@ Use os prompts do `PROMPTS.md` (neste repositório) para reproduzir o processo:
     <a href="https://github.com/felipeAguiarCode">GitHub</a>
     &nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/felipe-exe">LinkedIn</a>
-    &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">Instagram</a>
     &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode) — forkado e adaptado por [Thiago](https://github.com/ThiOliver)
+⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode) — forkado e adaptado por [Thiago Oliveira](https://github.com/ThiOliver)
