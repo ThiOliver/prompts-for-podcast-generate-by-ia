@@ -39,6 +39,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 - [ChatGPT](https://chat.openai.com/)
+- [Microsoft Copilot](https://copilot.microsoft.com/)
 - [Midjourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Kapwing](https://www.kapwing.com/folder/68a79147f6e06f1a7098c23e)
@@ -47,7 +48,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito
 - Roteiro gerado via ChatGPT
 - Áudio gerado pela ElevenLabs
-- Midjourney para gerar capas
+- Midjourney / Microsoft Copilot / ChatGPT para gerar capas
 - CapCut para tratar áudio e adicionar sons de fundo
 - Publicação no GitHub (fork)
 
