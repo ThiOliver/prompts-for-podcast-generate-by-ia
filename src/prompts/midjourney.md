@@ -7,7 +7,7 @@ Midjourney：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 | conteúdo | A man walking on a tightrope high above, with soft golden light illuminating the path ahead. The background is heavenly, with clouds and an ethereal atmosphere — a mix of tension and hope. The image conveys themes of salvation, grace, and redemption — with strong contrast between darkness and light. Cinematic style, dramatic lighting, centered composition. Conceptual art with symbolic depth. Ideal for Christian podcast cover, square format. |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
 
 ChatGPT:
 
@@ -25,4 +25,5 @@ Microsoft Copilot:
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 | conteúdo | Um cenário cinematográfico com um caminho estreito no céu, como uma corda bamba, envolvido por nuvens dramáticas e iluminado por uma luz dourada suave ao fundo. Ao longo da cena, elementos simbólicos de salvação, tensão e redenção. O título “No Fio da Graça” e o subtítulo “A salvação explicada sem atalhos, sem rodeios” devem estar integrados no topo ou centro da imagem com tipografia elegante e legível. Cores baseadas em psicologia emocional: azul profundo, dourado suave e toques de branco. Estilo ultra-realista, iluminação dramática, composição centralizada, fotorrealismo em 4K. Ideal para capa de podcast, proporção 1:1. --ar 1:1 --v 5.2 |
+
 
