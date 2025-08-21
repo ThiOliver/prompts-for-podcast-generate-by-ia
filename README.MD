@@ -41,7 +41,8 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ChatGPT](https://chat.openai.com/)
 - [Midjourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [CapCut](https://www.capcut.com/pt-br/)
+- [Kapwing](https://www.kapwing.com/folder/68a79147f6e06f1a7098c23e)
+- [Pixabay](https://pixabay.com/)
 
 ## ✨ Como foi feito
 - Roteiro gerado via ChatGPT
@@ -52,16 +53,18 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 - [Link da live no YouTube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de áudio (CapCut Web)](https://www.capcut.com/editor)
+- [docs.google](https://docs.google.com/document/d/1XdVAooK05RebieI4LKWbfbFQ5q00PE6-gWOGkYuePdQ/edit?usp=sharing)
+- [Editor de áudio (Kapwing)](www.kapwing.com)
+- [Fundo musical sem direitos autorais (Pixabay)](https://pixabay.com/)
+
 
 ## 🛠️ Instruções de execução
 Use os prompts do `PROMPTS.md` (neste repositório) para reproduzir o processo:
 
 - 🤖 1. Gere o roteiro no ChatGPT
 - 🔊 2. Gere a narração na ElevenLabs
-- 🎨 3. Crie a capa no Midjourney (ou Canva)
-- ✂️ 4. Edite e finalize no CapCut
+- 🎨 3. Crie a capa no Midjourney, Microsoft Copilot ou ChatGPT)
+- ✂️ 4. Edite e finalize no Kapwing
 - 💾 5. Exporte para MP3 e salve em `output/podcast_editado.MP3`
 
 ## 👨‍💻 Autor (Fork)
