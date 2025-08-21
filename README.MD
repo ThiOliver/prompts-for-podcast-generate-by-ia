@@ -52,7 +52,6 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 - Publicação no GitHub (fork)
 
 ## 📚 Materiais
-- [Link da live no YouTube](https://www.youtube.com)
 - [docs.google](https://docs.google.com/document/d/1XdVAooK05RebieI4LKWbfbFQ5q00PE6-gWOGkYuePdQ/edit?usp=sharing)
 - [Editor de áudio (Kapwing)](www.kapwing.com)
 - [Fundo musical sem direitos autorais (Pixabay)](https://pixabay.com/)
